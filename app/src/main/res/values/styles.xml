@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="judul">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:fontFamily">@font/poppins_bold</item>
+        </style>
+
+        <style name="subjudul">
+            <item name="android:textSize">9sp</item>
+            <item name="android:textColor">#888</item>
+            <item name="android:fontFamily">@font/poppins_medium</item>
+        </style>
+
+        <style name="profile_list">
+            <item name="cornerSize">40dp</item>
+        </style>
+
+        <style name="profile_detail">
+            <item name="cornerSize">10dp</item>
+        </style>
+
+
+</resources>
